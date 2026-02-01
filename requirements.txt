@@ -1,0 +1,49 @@
+# Core Python Scientific Stack
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Jupyter Environment
+jupyter
+notebook
+ipykernel
+
+# Deep Learning Frameworks
+torch
+torchvision
+torchaudio
+
+# Alternative Framework (optional, comment out if not needed)
+tensorflow
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Machine Learning Utilities
+scikit-learn
+tqdm
+
+# NLP + Transformers (LLaMA, Translation, Text Classification)
+transformers
+datasets
+tokenizers
+sentencepiece
+
+# Embeddings + Retrieval (RAG Systems)
+faiss-cpu
+langchain
+
+# Experiment Tracking / Utilities
+wandb
+
+# Model Saving & Serialization
+joblib
+
+# Optional: GPU Acceleration Helpers
+accelerate
+
+# Optional: Hugging Face Hub Support
+huggingface-hub
