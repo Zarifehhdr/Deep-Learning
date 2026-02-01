@@ -45,4 +45,8 @@ deep learning is one of the fastest-growing fields in ai and machine learning, p
 
 ## how to use
 
-1. clone the repository  
+1. clone the repository
+2. navigate to a specific project folder
+3. open and run the jupyter notebook
+4. install dependencies (example)  
+
